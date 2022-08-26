@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leonardo</h1>
-<h3 align="center">A passionate fullstack developer from Brazil</h3>
+<h3 align="center">A passionate front-end developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Java, React, nodeJs, angular, Sql and noSql**
+- 🌱 I’m currently learning **ReactJs, nodeJs, angular, Sql and noSql**
 
 - 📫 How to reach me **barbosaleonardo466@gmail.com**
 
